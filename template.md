@@ -1,6 +1,6 @@
 | Subdomain | Name | Difficulty |
 | --------- | ---- | ---------- |
-| 1         | []() |            |
+| Strings   | []() |            |
 
 ---
 
